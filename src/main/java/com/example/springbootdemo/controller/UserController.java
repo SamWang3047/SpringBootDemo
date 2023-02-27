@@ -32,7 +32,7 @@ public class UserController {
             return "Add user success";
         }
         else {
-            return "Add user failed";
+            return "Add user wfailed";
         }
     }
 
